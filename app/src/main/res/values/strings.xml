@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="create_oreder">Create Order</string>
+    <string name ="create_order_title">Create Order</string>
+</resources>
